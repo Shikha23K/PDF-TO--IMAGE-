@@ -1,6 +1,9 @@
 # PDF-TO-IMAGE
-#1. Install PDF2IMAGE
-#2. Download Poppler
+This code is used to convert all existing pdf in given directory path to any image formated file(JPEG,TIFF..)
+
+# 1. Install PDF2IMAGE
+
+# 2. Download Poppler
 
 
 #Install pdf2image
