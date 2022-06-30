@@ -1,4 +1,4 @@
-# PDF-TO--IMAGE-
+# PDF-TO-IMAGE
 #1. Install PDF2IMAGE
 #2. Download Poppler
 
